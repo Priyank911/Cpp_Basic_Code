@@ -1,0 +1,2 @@
+1. Header File Links:- https://en.cppreference.com/w/cpp/header
+2. Operators Precedences:- https://en.cppreference.com/w/cpp/language/operator_precedence
